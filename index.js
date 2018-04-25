@@ -1,3 +1,4 @@
 function add(a, b) {
-  return add() a, b
+console.log(a,b)
 }
+add(1,2)
